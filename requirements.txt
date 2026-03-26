@@ -1,3 +1,8 @@
-fastapi
-sqlalchemy
-psycopg2-binary
+cffi==1.14.6
+fastapi==0.68.1
+psycopg2==2.9.1
+pycparser==2.20
+pydantic==1.8.2
+six==1.16.0
+starlette==0.14.2
+typing-extensions==3.10.0.2
